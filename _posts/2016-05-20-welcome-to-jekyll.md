@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Welcome to ljqq的博客"
+title:  "Welcome to ljqq的博客呀"
 subtitle: "A minimal Jekyll theme"
 date:   2016-05-20 21:21:21 +0530
 categories: ["general"]
