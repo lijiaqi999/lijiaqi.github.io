@@ -7,8 +7,73 @@ subtitle: 我还是一个弟弟ljqq
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 歌曲<<屋顶>>
+``` 《屋bai顶》
+
+演唱：周杰伦du
+
+作曲：周杰伦
+
+作词：周杰伦
+半夜睡不着觉zhi，把心情哼成歌
+
+只好到dao屋顶找另一个梦境，睡梦中被敲醒
+
+我还是不确定，怎会有动人
+
+旋律在对面的屋顶，我悄悄关上门
+
+带着希望上去，原来是我梦里常出现的那个人
+
+那个人不就是我梦里，那模糊的人
+
+我们有同样的默契，用天线用天线
+
+排成爱你的形状Ho，在屋顶唱着你的歌
+
+在屋顶和我爱的人，让星星点缀成最浪漫的夜晚
+
+拥抱这时刻这一分一秒全都停止，爱开始纠结
+
+在屋顶唱着你的歌，在屋顶和我爱的人
+
+将泛黄的夜献给最孤独的月，拥抱这时刻这一分一秒全都停止
+
+爱开始纠结梦有你而美，半夜睡不着觉
+
+把心情哼成歌，只好到屋顶找另一个梦境
+
+睡梦中被敲醒，我还是不确定
+
+怎会有动人，弦律在对面的屋顶
+
+我悄悄关上门，带着希望上去
+
+原来是我梦里常出现的那个人，那个人不就是我梦里
+
+那模糊的人，我们有同样的默契
+
+用天线用天线，排成爱你的形状Ho
+
+在屋顶唱着你的歌，在屋顶和我爱的人
+
+让星星点缀成最浪漫的夜晚，拥抱这时刻这一分一秒全都停止
+
+爱开始纠结，在屋顶唱着你的歌
+
+在屋顶和我爱的人，将泛黄的夜献给最孤独的月
+
+拥抱这时刻这一分一秒全都停止，爱开始纠结梦有你而美
+
+让我爱你是谁是我，让你爱我是谁是你
+
+怎会有，动人弦律环绕在我俩的身边
+
+让我爱你是谁是我，让你爱我是谁
+
+是你，原来是这屋顶有美丽的邂逅
+
+在屋顶唱着你的歌，在屋顶和我爱的人  ```  
 
 ### 个人简介
 **基础资料** 
