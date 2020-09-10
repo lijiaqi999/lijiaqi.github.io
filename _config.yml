@@ -1,11 +1,11 @@
 # Site settings
 title: ljqq
 description: >
-这是一个真不戳的博客
+fgghfhgfgfh
 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "lijiaqi999.github.io" # the base hostname & protocol for your site
+url: "https://lijiaqi999.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: ljqq
