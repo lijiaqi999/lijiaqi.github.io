@@ -1,7 +1,6 @@
 # Site settings
 title: ljqq
-description: >
-test123
+description: etc
 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
