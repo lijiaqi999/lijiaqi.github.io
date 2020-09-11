@@ -4,10 +4,10 @@ title: ljqq的留言板
 subtitle: 初次尝试
 ---
 
-### 留言板
+
 <div style="width:100%;text-align:center">
 
-**真不戳的留言**
+<h1>留言板</h1>
 
 <form>
         <p>用户名<input type="text" name="username"></p>
