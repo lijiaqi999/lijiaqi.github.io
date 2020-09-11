@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ljqq的博客呀
+title: ljqq的博客
 subtitle: 真不错
 sitemap:
   priority: 0.9
