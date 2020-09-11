@@ -4,7 +4,6 @@ title: ljqq的博客
 subtitle: 真不错呀
 sitemap:
   priority: 0.9
-ljqq: 来吧展示
 ---
 
 <img src="{{ '/assets/img/lbj.jpg' | prepend: site.baseurl }}" id="about-img">
