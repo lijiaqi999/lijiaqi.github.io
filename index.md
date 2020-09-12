@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/lbj.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>我就是一个弟弟</p>
-	<p>非常菜的臭弟弟 <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<strong> <p>我就是一个弟弟</p></strong> 
+	<strong> <p>非常菜的臭弟弟 <a href="https://github.com/knhash/Pudhina"> repository</a> </p></strong>
 </div>
