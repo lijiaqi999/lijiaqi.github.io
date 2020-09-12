@@ -62,7 +62,7 @@
     display: block; }
 
   .menu {
-    color: rgb(17, 211, 50);
+    color: #16a085;
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;
@@ -76,7 +76,8 @@
       margin-right: 0px; }
 
   .menu__entry a {
-    font-weight: 400; }
+    font-weight: 400;
+    color: rgb(17, 211, 50); }
 
   .social-links {
     float: right;
