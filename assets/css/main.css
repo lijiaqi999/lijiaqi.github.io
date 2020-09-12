@@ -4,7 +4,7 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: rgb(104, 203, 233); }
+    background-color: rgb(38, 195, 243); }
 
   a {
     color: #57A;
@@ -136,11 +136,12 @@
   .about {
     color: rgb(17, 211, 50);
     text-align: center;
-    line-height: 24px; }
+    line-height: 24px;
+    letter-spacing: 9.09px; }
 
   .about__devider {
     font-size: 100%;
-    letter-spacing: 9.09px; }
+     }
 
   .about__text {
     font-size: 100%; }
