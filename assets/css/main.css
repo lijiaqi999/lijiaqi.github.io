@@ -62,7 +62,7 @@
     display: block; }
 
   .menu {
-    color: #828282;
+    color: rgb(17, 211, 50);
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;
@@ -136,12 +136,11 @@
   .about {
     color: rgb(17, 211, 50);
     text-align: center;
-    line-height: 24px;
-    letter-spacing: 9.09px; }
+    line-height: 24px; }
 
   .about__devider {
     font-size: 100%;
-     }
+    letter-spacing: 9.09px; }
 
   .about__text {
     font-size: 100%; }
